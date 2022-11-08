@@ -1,5 +1,4 @@
 public class FactorialIterativo {
-
         public void factorialIterativo(){
             long numero = 10;
             long factorial = 1;
@@ -9,11 +8,9 @@ public class FactorialIterativo {
                 System.out.printf("%d! = %d\n", i, factorial);
             }
         }
-
     public static void main(String[] args) {
         FactorialIterativo factorialIterativo = new FactorialIterativo();
         factorialIterativo.factorialIterativo();
 
     }
-
 }

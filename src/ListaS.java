@@ -1,4 +1,3 @@
-import java.util.ArrayList;
 
 public class ListaS {
 
@@ -58,7 +57,7 @@ public class ListaS {
             last = tmp;
             last.next = null;
         } return info;
-    } //
+    } // Metodo para borrar  el ultimo elemento
 
 
 
@@ -70,6 +69,8 @@ public class ListaS {
         l.insFinal(8);
         l.insFinal(3);
         l.borrarUltimo();
+        l.borrarFrente();
+        System.out.println(l.enLista(4));
         l.imprimirLista();
         System.out.println();
 

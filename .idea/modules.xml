@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/unidad-2.iml" filepath="$PROJECT_DIR$/unidad-2.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Unidad-3.iml" filepath="$PROJECT_DIR$/Unidad-3.iml" />
+>>>>>>> a09a659 (Creamos un nuevo proyecto para la unidad 3: se crearon dos clases NodoS y ListaS como ejemplo de listas simples)
     </modules>
   </component>
 </project>

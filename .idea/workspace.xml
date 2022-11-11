@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25fd9e28-ea0c-4f89-be68-53ff2dcac1b8" name="Changes" comment="Creamos un nuevo proyecto para la unidad 3: se crearon dos clases NodoS y ListaS como ejemplo de listas simples">
+    <list default="true" id="25fd9e28-ea0c-4f89-be68-53ff2dcac1b8" name="Changes" comment="prueba">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -37,12 +37,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="ListaS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ListaS" />
@@ -82,5 +82,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creamos un nuevo proyecto para la unidad 3: se crearon dos clases NodoS y ListaS como ejemplo de listas simples" />
     <option name="LAST_COMMIT_MESSAGE" value="Creamos un nuevo proyecto para la unidad 3: se crearon dos clases NodoS y ListaS como ejemplo de listas simples" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="ListaS" memberName="first" />
+        <PinnedItemInfo parentTag="NodoS" memberName="info" />
+        <PinnedItemInfo parentTag="NodoS" memberName="next" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Unidad_3$ListaS.ic" NAME="ListaS Coverage Results" MODIFIED="1668012622433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

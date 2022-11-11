@@ -61,17 +61,13 @@ public class ListaLC {
         ListaLC lc = new ListaLC();
         lc.agregarElemento(6);
         lc.agregarElemento(8);
-        lc.mostrarLista();
+        lc.agregarElemento(45);
+        lc.agregarElemento(4);
         lc.eliminar(8);
         lc.mostrarLista();
         System.out.print(lc.vacia());
         lc.eliminar(6);
         lc.mostrarLista();
-
-
-
-
-
     }
 }
 

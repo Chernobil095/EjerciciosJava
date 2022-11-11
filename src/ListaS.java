@@ -68,13 +68,8 @@ public class ListaS {
         l.insFrente(7);
         l.insFinal(8);
         l.insFinal(3);
-        l.borrarUltimo();
-        l.borrarFrente();
-        System.out.println(l.enLista(4));
         l.imprimirLista();
-        System.out.println();
-
-
+        System.out.println(l.vacia());
 
     }
 

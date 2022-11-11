@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25fd9e28-ea0c-4f89-be68-53ff2dcac1b8" name="Changes" comment="Creamos un nuevo proyecto para la unidad 3: se crearon dos clases NodoS y ListaS como ejemplo de listas simples">
+    <list default="true" id="25fd9e28-ea0c-4f89-be68-53ff2dcac1b8" name="Changes" comment="agregue un comentario en la linea 61">
+      <change afterPath="$PROJECT_DIR$/src/ListaLC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NodoLC.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ListaS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListaS.java" afterDir="false" />
     </list>
@@ -37,7 +39,17 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ListaLC">
+    <configuration name="ListaLC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="16" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ListaLC" />
+      <module name="Unidad-3" />
+      <option name="PROGRAM_PARAMETERS" value="1 2 3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ListaS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="16" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -59,6 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListaLC" />
         <item itemvalue="Application.ListaS" />
       </list>
     </recent_temporary>
@@ -79,7 +92,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668012673679</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Agregamos nuevos metodos:&#10;1.- Meotodo de agregar al final&#10;2.- Metodo de eliminar el ultimo elemento&#10;3.- Metodo para ver si se encuentra un elemento dentro de la lista&#10;4.- Y el metodo para imprimir la lista en consola">
+      <created>1668115652104</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668115652104</updated>
+    </task>
+    <task id="LOCAL-00003" summary="agregue un comentario en la linea 61">
+      <created>1668115804980</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668115804980</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,7 +122,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creamos un nuevo proyecto para la unidad 3: se crearon dos clases NodoS y ListaS como ejemplo de listas simples" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creamos un nuevo proyecto para la unidad 3: se crearon dos clases NodoS y ListaS como ejemplo de listas simples" />
+    <MESSAGE value="Agregamos nuevos metodos:&#10;1.- Meotodo de agregar al final&#10;2.- Metodo de eliminar el ultimo elemento&#10;3.- Metodo para ver si se encuentra un elemento dentro de la lista&#10;4.- Y el metodo para imprimir la lista en consola" />
+    <MESSAGE value="agregue un comentario en la linea 61" />
+    <option name="LAST_COMMIT_MESSAGE" value="agregue un comentario en la linea 61" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>
@@ -107,7 +136,7 @@
     </pin-to-top-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="l" />
+        <watch expression="l" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>

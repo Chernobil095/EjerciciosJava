@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25fd9e28-ea0c-4f89-be68-53ff2dcac1b8" name="Changes" comment="agregue un comentario en la linea 61">
-      <change afterPath="$PROJECT_DIR$/src/ListaLC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NodoLC.java" afterDir="false" />
+    <list default="true" id="25fd9e28-ea0c-4f89-be68-53ff2dcac1b8" name="Changes" comment="Probando las clases">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListaS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListaS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListaLC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListaLC.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -106,7 +105,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668115804980</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Metodo para eliminar un elemento de una lista circular">
+      <created>1668131495875</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668131495875</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Probando las clases">
+      <created>1668133912992</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668133912992</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,7 +137,9 @@
     <MESSAGE value="Creamos un nuevo proyecto para la unidad 3: se crearon dos clases NodoS y ListaS como ejemplo de listas simples" />
     <MESSAGE value="Agregamos nuevos metodos:&#10;1.- Meotodo de agregar al final&#10;2.- Metodo de eliminar el ultimo elemento&#10;3.- Metodo para ver si se encuentra un elemento dentro de la lista&#10;4.- Y el metodo para imprimir la lista en consola" />
     <MESSAGE value="agregue un comentario en la linea 61" />
-    <option name="LAST_COMMIT_MESSAGE" value="agregue un comentario en la linea 61" />
+    <MESSAGE value="Metodo para eliminar un elemento de una lista circular" />
+    <MESSAGE value="Probando las clases" />
+    <option name="LAST_COMMIT_MESSAGE" value="Probando las clases" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>

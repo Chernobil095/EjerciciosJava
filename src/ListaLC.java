@@ -65,9 +65,8 @@ public class ListaLC {
         lc.agregarElemento(4);
         lc.eliminar(8);
         lc.mostrarLista();
-        System.out.print(lc.vacia());
         lc.eliminar(6);
+        System.out.println(lc.vacia());
         lc.mostrarLista();
     }
 }
-
